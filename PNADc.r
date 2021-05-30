@@ -1,3 +1,7 @@
+  #Pesquisa realizada na base de dados do PNADc IBGE
+  #Buscou-se identificar a média de Renda vs Escolaridade dos setores:
+  #Privado, público, conta-própia, empregador, familiar auxiliar e trabalhador doméstico. 
+
 #### Carregando o banco de dados ####
 
 # Passo 1: selecionar o diretório de trabalho (working directory)
