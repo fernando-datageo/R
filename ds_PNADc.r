@@ -96,6 +96,7 @@ domestico <- read.csv2('Trabalhador doméstico.csv', stringsAsFactors = T)
 
 
 #Explorar e gerar os gráficos
+
 esquisser(privado)
 esquisser(publico)
 esquisser(familiar)
